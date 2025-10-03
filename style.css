@@ -91,7 +91,7 @@ body {
 }
 
 .header {
-  background-image: url("header.jpg");
+  background-image: url("./header.jpg");
   height: 100vh;
   background-repeat: no-repeat;
   width: 100%;
